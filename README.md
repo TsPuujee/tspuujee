@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Purevjargal(Puujee)</h1>
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=tspuujee&theme=dark&show_icons=true">
 
-- 🔭 I’m currently working on [TOKTOK](https://toktok.mn/)
+- 🔭 I’m currently working on [Nasha tech](https://nashatech.com/)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **AWS solution architect**
 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tspuujee&layout=compact&theme=dark" />
   
